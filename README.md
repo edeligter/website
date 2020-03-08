@@ -3,6 +3,7 @@
 een aanpassing
 
 eeen andere aanpassing
+<<<<<<< HEAD
 343435235
 43ijp32o4i5
 34253245345
@@ -10,3 +11,8 @@ eeen andere aanpassing
 32453245
 3425
 53245
+=======
+
+
+dit is een nieuwe test
+>>>>>>> 4499b27ff16ba126031bd9591b7205949790e308
