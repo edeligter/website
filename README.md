@@ -1,3 +1,3 @@
 # website2
 
-een aanpassin
+een aanpassing
